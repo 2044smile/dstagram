@@ -143,5 +143,5 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 LOGIN_REDIRECT_URL = '/'
 
-DISQUS_WEBSITE_SHORTNAME = 'Your Disqus Name'
+DISQUS_WEBSITE_SHORTNAME = 'dstagram-django'
 SITE_ID = 1
