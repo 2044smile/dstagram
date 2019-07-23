@@ -1,5 +1,11 @@
 # dstagram
 https://d-stagram-django.herokuapp.com/
+
+distribute : heroku
+img server : amazoneaws S3
+
+
+
 # blog
 https://newbiecs.tistory.com/179
 https://newbiecs.tistory.com/180
