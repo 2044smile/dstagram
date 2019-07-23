@@ -1,9 +1,9 @@
 # dstagram
 https://d-stagram-django.herokuapp.com/
 
-distribute : heroku
-img server : amazoneaws S3
-
+- distribute : heroku
+- img server : amazoneaws S3
+- reply app : Disqus
 
 
 # blog
