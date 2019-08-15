@@ -1,4 +1,4 @@
-# dstagram
+# dstagram(배프의 오지랖 파이썬 웹프로그래밍)
 https://d-stagram-django.herokuapp.com/
 
 - distribute : heroku
